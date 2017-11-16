@@ -1,0 +1,23 @@
+{
+  "name": "webpack-php-asset-plugin",
+  "version": "0.0.1",
+  "description": "webpack php asset version plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ittiam/webpack-php-asset-plugin.git"
+  },
+  "keywords": ["webpack", "php", "version"],
+  "author": "ittiamc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ittiam/webpack-php-asset-plugin/issues"
+  },
+  "homepage": "https://github.com/ittiam/webpack-php-asset-plugin#readme",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}

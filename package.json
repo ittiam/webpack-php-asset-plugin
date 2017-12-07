@@ -1,6 +1,6 @@
 {
   "name": "webpack-php-asset-plugin",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "webpack php asset version plugin",
   "main": "index.js",
   "scripts": {
